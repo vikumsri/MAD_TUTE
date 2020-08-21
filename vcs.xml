@@ -14,6 +14,10 @@
           <option name="url" value="https://github.com/SaliyaAmbegoda/AffixExplorer.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/mitchtabian/Google-Maps-Google-Places.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\AndroidStudioProjects" />
